@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "sequelizereceipe2_box_app",
+    "password": "HfKfK79k",
+    "database": "recipe_box2_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "seederStorage": "sequelize"
+  },
+  "test": {
+    "username": "sequelizereceipe2_box_app",
+    "password": "HfKfK79k",
+    "database": "recipe_box2_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "seederStorage": "sequelize"
+  },
+  "production": {
+    "username": "sequelizereceipe2_box_app",
+    "password": "HfKfK79k",
+    "database": "recipe_box2_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "seederStorage": "sequelize"
+  }
+}
